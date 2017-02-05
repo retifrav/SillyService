@@ -1,0 +1,6 @@
+obj/
+bin/*
+_sln/packages/
+[Tt]humbs.db
+*.vshost.*
+**/*.suo
