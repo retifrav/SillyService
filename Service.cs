@@ -8,7 +8,7 @@ namespace SillyService
     public partial class Service : ServiceBase
     {
         /// <summary>
-        /// Main times
+        /// Main timer
         /// </summary>
         private System.Timers.Timer timer2nextUpdate;
         /// <summary>
